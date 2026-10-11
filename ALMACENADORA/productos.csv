@@ -1,0 +1,13 @@
+codigo,nombre,categoria,precio,stock,stock_minimo
+MP001,Harina de trigo,Harinas,12.5,5,20
+MP002,Azucar blanca,Endulzantes,8.75,80,15
+MP003,Sal fina,Especias,3.2,50,10
+MP004,Aceite vegetal,Aceites,25.0,40,12
+MP005,Levadura seca,Leudantes,15.6,30,8
+MP006,Cacao en polvo,Endulzantes,45.0,25,10
+MP007,Leche en polvo,Lacteos,60.0,20,8
+MP008,Huevo en polvo,Huevos,70.0,15,6
+MP009,Colorante rojo,Colorantes,18.9,35,10
+MP010,Esencia de vainilla,Aromatizantes,22.4,18,5
+MP011,Sabor Manzana,Edulcorante,30.0,50,50
+MP012,Sabor Piña,Edulcorante,50.0,20,15
